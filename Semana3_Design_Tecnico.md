@@ -76,8 +76,6 @@ Classes com atributos, métodos, visibilidade e multiplicidade completas.
 - Lead `0..1` — `0..1` Cliente (relação de conversão)
 - ProcessoFiscal `1` — `0..*` Notificacao
 
-> 💬 **Nota minha (não faz parte do entregável):** os tipos como `enum` e a sintaxe `List<T>` são só pra deixar claro a ideia pra você — quando for desenhar no draw.io, use a notação UML padrão (atributo: tipo, sem `<>` ou chaves), e visibilidade `-` (privado) e `+` (público) já está correta pro padrão UML.
-
 ---
 
 ## 2. Caso de Uso de Maior Risco: Registrar e Acompanhar Processo Fiscal
@@ -133,8 +131,6 @@ Fluxo representado (correspondente ao fluxo principal acima):
 9. Colaborador → Interface: atualizarStatus("Concluído")
 10. Interface → ProcessoFiscal: atualizarStatus()
 
-*(Diagrama de sequência visual gerado abaixo como referência.)*
-
 ---
 
 ## 4. Backlog do Produto (Priorizado)
@@ -183,9 +179,3 @@ Projeto de análise e modelagem (sem implementação de código).
 ```
 
 **Estrutura de pastas:** `/docs/requisitos`, `/docs/modelos`, `/docs/historias`
-
-> 💬 **Nota minha (não faz parte do entregável):** crie o repositório no GitLab, adicione esse README, e vá commitando os documentos das semanas anteriores nas pastas certas — isso conta como entrega junto com os artefatos.
-
----
-
-*Documento gerado como parte da Semana 3 do projeto integrador.*
