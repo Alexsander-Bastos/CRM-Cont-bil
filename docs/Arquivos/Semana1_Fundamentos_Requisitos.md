@@ -1,5 +1,5 @@
 # Semana 1: Fundamentos e Requisitos
-## Projeto Integrador — Jornada da Engenharia de Software: Da Ideia ao Modelo
+**solo:** [Alexsander bastos da silva]
 
 ---
 
@@ -122,6 +122,3 @@ R: "Sim, lidamos com informações fiscais e pessoais sensíveis, então isso é
 - **Processo de decisão:** Decisões técnicas registradas no README do repositório, com justificativa breve (ex: "Escolhi X porque Y")
 - **Comunicação com o professor:** Em caso de dificuldade, registrar no relatório semanal e buscar orientação no encontro semanal
 
----
-
-*Documento gerado como parte da Semana 1 do projeto integrador.*

@@ -5,7 +5,6 @@
 
 ## 1. Documento de Requisitos v2.0
 
-*(Versão final, com rastreabilidade: requisito → caso de uso → classe)*
 
 ### Requisitos Funcionais
 
@@ -48,8 +47,6 @@
 | RF09 | Visualizar Dashboard | Cliente, ProcessoFiscal, Lead | História 6 |
 | RF11 | Gerar Relatório de Produtividade | Colaborador, Atendimento | História 8 |
 
-*(Essa matriz demonstra que todo requisito relevante do escopo está coberto por pelo menos um artefato de modelagem — nenhum requisito ficou "solto".)*
-
 ---
 
 ## 3. Pacote de Modelos UML — Checklist de Entrega
@@ -57,8 +54,6 @@
 - [x] Diagrama de Casos de Uso (especificado na Semana 2 — montar no draw.io e exportar em PDF + arquivo .drawio editável)
 - [x] Diagrama de Classes (Modelo Conceitual da Semana 2 + versão refinada da Semana 3 — exportar PDF + .drawio)
 - [x] Diagrama de Sequência do Caso de Uso de Maior Risco (Semana 3 — exportar PDF + .drawio)
-
-> 💬 **Nota minha (não faz parte do entregável):** os diagramas visuais que eu gerei aqui no chat servem como referência de estrutura e relações — mas para a entrega oficial, você precisa recriá-los no draw.io (usando a notação UML padrão) e exportar como PDF e como arquivo editável (.drawio), conforme pede a atividade.
 
 ---
 
@@ -90,20 +85,3 @@ Optou-se por modelar o caso de uso "Registrar e Acompanhar Processo Fiscal" como
 - [ ] README final atualizado com status do projeto e links para os artefatos
 - [ ] Pastas `/docs/requisitos`, `/docs/modelos`, `/docs/historias` preenchidas com as versões finais
 - [ ] Matriz de rastreabilidade incluída em `/docs/requisitos`
-
----
-
-## 6. Preparação para o Encontro Final
-
-**Apresentação rápida (5-7 min) — roteiro sugerido:**
-1. Contexto do cliente fictício e problema a resolver (1 min)
-2. Diagrama de Casos de Uso — visão geral (1-2 min)
-3. Caso de Uso de Maior Risco + Diagrama de Sequência (2 min)
-4. Diagrama de Classes refinado (1-2 min)
-5. Principal aprendizado do processo (1 min)
-
-**Entregar no encontro final:** Relatório Final (seção 4 acima) + link do repositório Git.
-
----
-
-*Documento gerado como parte da Semana 4 do projeto integrador — última etapa.*

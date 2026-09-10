@@ -5,7 +5,6 @@
 
 ## 1. Documento de Requisitos v1.0
 
-*(Consolidação dos requisitos levantados na Semana 1 — pronto para servir de base à modelagem)*
 
 ### Requisitos Funcionais
 | ID | Descrição |
@@ -117,7 +116,3 @@ Classes identificadas a partir do domínio, com atributos principais (sem métod
 - **Dado** que um processo fiscal possui uma data de vencimento cadastrada
 - **Quando** a data atual estiver a 5 dias ou menos do vencimento
 - **Então** o sistema deve gerar automaticamente uma notificação visível ao colaborador responsável e ao gerente
-
----
-
-*Documento gerado como parte da Semana 2 do projeto integrador.*
